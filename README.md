@@ -11,7 +11,6 @@ ruby tic_tac_toe.rb
 ```
 
 
-The game will alternate turns between
 
 The game will ask you to choose the type of game you want to play: human vs. human, human vs. computer or computer vs. computer.
 
